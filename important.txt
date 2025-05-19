@@ -1,0 +1,2 @@
+- Make sure ChatGPT is installed on your system.
+- Update the GPT_EXECUTABLE_PATH in the script according to your installation.
